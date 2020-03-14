@@ -1,2 +1,2 @@
 # arquivosC
-Pequenos algoritmos em C++
+Pequenos algoritmos em C
