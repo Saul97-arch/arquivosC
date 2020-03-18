@@ -18,7 +18,7 @@ int main(void){
 
     printf("\nSeu carro percorreu %f kilometros\n", distancia);
 
-    printf("\n Quantos litros por km seu carro faz?");
+    printf("\n Quantos litros por km seu carro faz?\n");
     scanf("%f", &litro_km);
 
     litros_usados = distancia / litro_km;
