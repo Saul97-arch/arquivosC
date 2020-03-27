@@ -20,7 +20,7 @@ int main(void){
     printf("Entre com o índice da raiz:\n");
     scanf("%f", &raiz);
     resRaiz = Raiz(num, raiz);
-    printf("A raiz de %.0f é %.0f\n", num, resRaiz);
+    printf("A raiz de %.0f é %f\n", num, resRaiz);
 }
 
 int CalcFat(int n){
