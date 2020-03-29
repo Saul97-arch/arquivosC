@@ -18,13 +18,11 @@ int main(void){
     }else{
         printf("Os valores inseridos não são válidos!\n");
     }
-    if(a == b && a == c){
+    if(a == b && a == c && b == c){
         printf("EQULILÁTERO!\n");
-    }
-    if(a == b || a == c){
+    }else if(a == b || a == c || b == c){
+        printf("ISOCELES\n");
+    }else if( a != b && a !=c && b != c){
         printf("ESCALENO\n");
-    }
-    if( a != b && a !=c){
-        printf("ISÓCELES\n");
     }
 }
