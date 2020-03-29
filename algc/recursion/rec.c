@@ -27,4 +27,9 @@ long int Fatorial(int N){
 
 /* Links interessantes:
 https://www.youtube.com/watch?v=1kBiqUCN888&list=PLa75BYTPDNKYccxYJXaHFjwMUm02xV915&index=7
-https://www.youtube.com/watch?v=rDlEpT0ugy0 */
+
+https://www.youtube.com/watch?v=rDlEpT0ugy0 
+
+https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
+
+https://www.youtube.com/watch?v=7MNLhjd9N9I*/
